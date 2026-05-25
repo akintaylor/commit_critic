@@ -1,0 +1,18 @@
+# Settings (contains API keys)
+settings.json
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
