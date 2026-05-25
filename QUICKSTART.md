@@ -8,13 +8,7 @@ Get started with Commit Critic in 3 minutes!
 pip install -r requirements.txt
 ```
 
-This installs:
-- `anthropic` - Claude AI client
-- `openai` - OpenAI client
-- `questionary` - Arrow-key interactive prompts
-- `rich` - Beautiful terminal output
-
-## Step 2: Get an API Key (1 minute)
+## Step 2: Get an API Key
 
 You need a key from one of these providers:
 
@@ -23,7 +17,7 @@ You need a key from one of these providers:
 
 You don't need to set anything yet — the tool will ask for it interactively on first run.
 
-## Step 3: Run It! (30 seconds)
+## Step 3: Run It!
 
 **Option A: Analyze your commits**
 ```bash
@@ -60,12 +54,3 @@ The tool will:
 
 **"Not a git repository"**
 → Run in a git repo, or use `--url` to analyze remote repos
-
-**"No staged changes"**
-→ Run `git add` first to stage your changes
-
-## Next Steps
-
-- Read the full [README.md](README.md) for detailed usage
-- Integrate into your workflow with git hooks
-- Share with your team to improve commit quality!
