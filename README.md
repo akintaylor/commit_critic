@@ -1,4 +1,4 @@
-# AI Commit Message Critic
+# Commit Message Critic
 
 An AI-powered terminal tool that analyzes Git commit message quality and helps developers write better commits using Claude AI (Anthropic) or GPT-4o (OpenAI).
 

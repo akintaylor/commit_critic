@@ -1,8 +1,6 @@
 # Quick Start Guide
 
-Get started with Commit Critic in 3 minutes!
-
-## Step 1: Install Dependencies (30 seconds)
+## Step 1: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
